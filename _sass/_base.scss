@@ -269,13 +269,13 @@ p {
 
 }
 
-.upper-row {
+.degree {
     position: relative;
     display: inline-block;
     border-bottom: 1px dotted black;
 }
 
-.upper-row .tooltiptext {
+.degree .tooltiptext {
     visibility: hidden;
     width: 120px;
     background-color: #555;
@@ -292,7 +292,7 @@ p {
     transition: opacity 0.3s;
 }
 
-.upper-row .tooltiptext::after {
+.degree .tooltiptext::after {
     content: "";
     position: absolute;
     top: 100%;
@@ -303,7 +303,7 @@ p {
     border-color: #555 transparent transparent transparent;
 }
 
-.upper-row:hover .tooltiptext {
+.degree:hover .tooltiptext {
     visibility: visible;
     opacity: 1;
 }
