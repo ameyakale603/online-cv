@@ -1,0 +1,139 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output. 
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Ameya Kale
+    tagline: Software Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: ameykale603@gmail.com 
+    website: onlyak.github.io #do not add http://
+    linkedin: ameya-kale
+    github: onlyak
+    twitter: '@ameykale603'
+
+    languages:
+      - idiom: English
+        level: Professional
+
+      - idiom: Marathi
+        level: Native
+
+      - idiom: Hindi
+        level: Professional
+
+      - idiom: German
+        level: Good	
+        
+    interests:
+      - item: Playing Chess
+        link:
+
+      - item: Playing SuperCell Games
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Project Trainee at Persistent Systems. Bachelor of Computer Engineering from Pune University with an interest in Artificial
+      Intelligence and Machine Learning 
+
+education:
+    - degree: Bachelor of Engineering in Computer Science
+      university: Pune University
+      time: 2014 - 2018
+      details: |
+        Completed Bachelor of Engineering in Computer Science with aggregate score of 66.2%
+
+
+    - degree: HSC
+      university: Maharashtra State Board
+      time: 2012 - 2014
+      details: |
+        Completed HSC from Bharat English School and  Jr. College with score of 69.69%
+
+    - degree: SSC
+      university: Maharashtra State Board
+      time: 2011 - 2012
+      details: |
+        Completed SSC from Bharatiya Vidya Bhavan with score of 79.64%
+experiences:
+    - role: Project Trainee
+      time: 2018 - Present
+      company: Persistent Systems
+ 
+
+    - role: Project Intern
+      time: 2017 - 2018
+      company: Persistent System Ltd.
+      details: |
+        Final year project sponsored by Persistent Systems. Project domain was computer vision and deep learning.
+
+
+projects:
+    title: Projects
+    intro: 
+
+
+    assignments:
+
+      - title: Intelligent Vehicle Navigation Agent
+        link: "#"
+        tagline: "Final year project sponsored by Persistent Systems. Project domain was computer vision and deep learning."
+
+      - title: Developed an Android App for Departmental Techno-management event CodeFiesta 2017
+        link: "#"
+        tagline: "A simple android application for Progressive education society's Modern College of Engineering."
+
+      - title: Management Information System
+        link: "#"
+        tagline: "Management Information System for a department using HTML,CSS,PHP and MySQL."
+
+      - title: Seminar
+        link: "#"
+        tagline: "Setting up of the infrastructure for a location based service using GPS facility to alert a user on reaching
+                  a desired location."
+
+      - title: Hackathon
+        link: "#"
+        tagline: "Won the ’SemiColons2018’ Hackathon organised by Persistent Systems for Indoor Navigation using AR
+                  and VR"
+
+
+publications:
+    title: Patents
+    intro: 
+
+    papers:
+      - title: 
+        authors: 
+
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: C 
+        level: 80%
+
+      - name: C++
+        level: 70%
+
+      - name: Python
+        level: 60%
+
+      - name: Core Java
+        level: 60%
+
+      - name: Git
+        level: 60%
+
+      - name: Android Studio and Xcode
+        level: 40%
+    
