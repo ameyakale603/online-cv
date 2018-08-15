@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Orbit
 > This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/). 
 > Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
@@ -16,4 +15,4 @@ Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
 This project is licensed under the [MIT license](LICENSE.txt).
 =======
 # online-cv
->>>>>>> 8021fbd3ac584a5bb4c8bf5589d9fc9f8b2358bc
+
