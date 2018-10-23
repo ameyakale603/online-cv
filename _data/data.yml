@@ -38,9 +38,12 @@ sidebar:
       - item: Playing SuperCell Games
         link:
 
+<<<<<<< HEAD
       - item: Rookie Guitarist
         link:
 
+=======
+>>>>>>> 01a88f4159c0cd08d2f4e043696cba66b57a747e
 career-profile:
     title: Career Profile
     summary: |
@@ -113,7 +116,11 @@ publications:
     title: Patents
     intro: 
 
+<<<<<<< HEAD
     papers: Method of posture detection related to sitting arrangement for advanced data analytics.(201821038951)
+=======
+    papers:
+>>>>>>> 01a88f4159c0cd08d2f4e043696cba66b57a747e
       - title: 
         authors: 
 
