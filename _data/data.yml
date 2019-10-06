@@ -67,8 +67,12 @@ education:
       details: |
         Completed SSC from Bharatiya Vidya Bhavan with score of 79.64%
 experiences:
+    - role: Assistant System Engineer Trainee
+      time: Jan'19 - Present
+      company: Tata Consultancy Systems 
+
     - role: Project Trainee
-      time: 2018 - Present
+      time: July'18 - December'18
       company: Persistent Systems
  
 
