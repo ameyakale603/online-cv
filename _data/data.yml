@@ -109,9 +109,13 @@ projects:
 
       - title: Hackathon
         link: "#"
-        specificLink: "https://onlyak.github.io/Certifications/"
         tagline: "Won the ’SemiColons2018’ Hackathon organised by Persistent Systems for Indoor Navigation using AR
                   and VR"
+                  
+      - title: Certifications
+        link: "#"
+        specificLink: "https://onlyak.github.io/Certifications/"
+        tagline: "Click here to browse"  
                                 
 
 publications:
