@@ -24,12 +24,9 @@
       </span>
 
       {% if project.tagline %}
-       - <span class="project-tagline"> {{ project.tagline }}</span>
-      {% endif %}
-          
-      {% if project.certifications %}
        - <span class="project-tagline"> <a href="{{ project.specificLink }}">{{ project.tagline }}</a></span>
       {% endif %}
+         
 
     </div><!--//item-->
   {% endfor %}
