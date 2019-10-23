@@ -112,20 +112,7 @@ projects:
         specificLink: "https://onlyak.github.io/Certifications/"
         tagline: "Won the ’SemiColons2018’ Hackathon organised by Persistent Systems for Indoor Navigation using AR
                   and VR"
-                  
-certifications:
-    title: Certifications
-    intro: 
-
-
-    assignments:
-
-      - title: Multi-OS Installation
-        link: "#"
-        tagline: "Multi-OS Seminar."                  
-                  
-                  
-        
+                                
 
 publications:
     title: Patents
